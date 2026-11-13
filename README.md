@@ -269,6 +269,6 @@ Potential areas for further development include:
 
 ---
 
-**Project:** NimbusPay – Financial Support Ticket Triage  
+**Project:** NimbusPay 
 **Model:** Qwen2.5-3B-Instruct  
 **Approach:** Supervised Fine-Tuning using LoRA / QLoRA
